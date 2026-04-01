@@ -25,6 +25,16 @@ Getting started is easy! You don't need to manually configure complicated server
 
 ---
 
+## 🛡️ Note on Windows SmartScreen
+
+As PocketController is an independent project, Windows may show a **"Windows protected your PC"** warning during installation. 
+
+**This is normal!** Because the installer is not yet digitally signed by a major publisher, Microsoft SmartScreen flags it. To proceed:
+1. Click **"More info"** on the blue warning screen.
+2. Click **"Run anyway"** to start the installation.
+
+---
+
 ## 🛠️ How to Use
 
 1.  **Launch**: Open the PocketController PC Client from your Desktop or Start Menu.
