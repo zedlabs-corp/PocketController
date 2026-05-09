@@ -2,6 +2,10 @@
 
 **PocketController** is a premium, high-performance bridge that transforms your mobile device into a versatile virtual game controller for your Windows PC. Experience seamless gaming with professional-grade input emulation and ultra-low latency.
 
+<a href="https://apps.microsoft.com/detail/9PF57K7RQLTL?referrer=appbadge&mode=full" target="_blank" rel="noopener noreferrer">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
+
 ---
 
 ## ✨ Key Features
@@ -17,8 +21,12 @@
 
 ## 🚀 Installation
 
-Getting started is easy! You don't need to manually configure complicated server environments.
+### 🏪 Option 1: Microsoft Store (Recommended)
+Get the latest version directly from the Microsoft Store for the simplest experience, including automatic updates and verified security.
 
+[**Download from Microsoft Store**](https://apps.microsoft.com/detail/9PF57K7RQLTL?referrer=appbadge&mode=full)
+
+### 📂 Option 2: GitHub Releases
 1.  **Download**: Head over to our [**Releases Page**](https://github.com/zedlabs-corp/PocketController/releases) and download the latest `PocketController-Setup.exe`.
 2.  **Install**: Run the installer and follow the on-screen instructions.
 3.  **Drivers**: The setup will automatically prompt you to install the necessary **ViGEmBus** drivers if they are not already present on your system.
@@ -26,12 +34,14 @@ Getting started is easy! You don't need to manually configure complicated server
 ---
 
 ## 🛡️ Note on Windows SmartScreen
+*This section applies only to the GitHub `.exe` installer.*
 
-As PocketController is an independent project, Windows may show a **"Windows protected your PC"** warning during installation. 
+As PocketController is an independent project, Windows may show a **"Windows protected your PC"** warning during manual installation. This is normal for unsigned independent software. 
 
-**This is normal!** Because the installer is not yet digitally signed by a major publisher, Microsoft SmartScreen flags it. To proceed:
+**To proceed:**
 1. Click **"More info"** on the blue warning screen.
 2. Click **"Run anyway"** to start the installation.
+*(Note: Installing via the Microsoft Store avoids this warning entirely.)*
 
 ---
 
@@ -51,7 +61,7 @@ As PocketController is an independent project, Windows may show a **"Windows pro
 
 - **OS**: Windows 10/11 (64-bit)
 - **Network**: Stable Wi-Fi/Local Network connection.
-- **Drivers**: ViGEmBus (included in installer).
+- **Drivers**: ViGEmBus (included in installer/store setup).
 
 ---
 
